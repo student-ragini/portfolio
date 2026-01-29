@@ -40,7 +40,7 @@ const Developertool = () => {
                 <div className='skills_data'>
                     <i className='bx bx-badge-check'></i>
                     <div>
-                        <h3 className='skills_name'>Chrome DevTools</h3>
+                        <h3 className='skills_name'>Edge DevTools</h3>
                     </div>
                 </div>
 
