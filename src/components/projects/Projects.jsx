@@ -2,7 +2,6 @@ import React from 'react';
 import "./projects.css";
 import VideoLibrary from './videolibrary';
 import ShoppingOnline from './shoppingonline';
-import ToDoList from './todo';
 
 
 const Projects = () => {
@@ -14,7 +13,6 @@ const Projects = () => {
         <div className='skills_containe container grid' id='skills_container'>
             <VideoLibrary/>
             <ShoppingOnline />
-            <ToDoList/>
         </div>
     </section>
   )
