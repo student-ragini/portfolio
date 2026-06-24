@@ -1,6 +1,6 @@
 import React from 'react';
 import "./projects.css";
-import Careerhub from './CareerHub';
+import CareerHub from './CareerHub'
 import DocBooker from './DocBooker';
 
 
