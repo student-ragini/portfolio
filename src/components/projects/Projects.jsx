@@ -1,7 +1,7 @@
 import React from 'react';
 import "./projects.css";
-import VideoLibrary from './videolibrary';
-import ShoppingOnline from './shoppingonline';
+import Careerhub from './CareerHub';
+import DocBooker from './DocBooker';
 
 
 const Projects = () => {
@@ -11,8 +11,8 @@ const Projects = () => {
         <span className='section_subtitle'></span>
 
         <div className='skills_containe container grid' id='skills_container'>
-            <VideoLibrary/>
-            <ShoppingOnline />
+            <Careerhub/>
+            <DocBooker />
         </div>
     </section>
   )
