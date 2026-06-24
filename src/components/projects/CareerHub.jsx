@@ -10,4 +10,4 @@ const CareerHub = () => {
   )
 }
 
-export default ShoppingOnline
+export default CareerHub

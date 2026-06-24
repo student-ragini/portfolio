@@ -10,4 +10,4 @@ const DocBooker = () => {
   )
 }
 
-export default VideoLibrary
+export default DocBooker
