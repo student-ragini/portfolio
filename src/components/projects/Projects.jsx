@@ -11,7 +11,7 @@ const Projects = () => {
         <span className='section_subtitle'></span>
 
         <div className='skills_containe container grid' id='skills_container'>
-            <Careerhub/>
+            <CareerHub/>
             <DocBooker />
         </div>
     </section>
