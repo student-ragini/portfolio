@@ -23,11 +23,13 @@
 .home_title{
     font-size: var(--big-font-size);
     margin-bottom: var(--mb-0-25);
+    white-space: nowrap;
 }
 .home_hand{
     width: 30px;
     height: 30px;
-    margin-left: 0.4rem;
+    margin-top: 10px;
+    margin-left: 20px;
 }
 .home_subtitle{
     position: relative;
