@@ -60,7 +60,7 @@ const Contact = () => {
               <span className="contact_card-data">@ragini_2728</span>
 
               <a
-                href="https://t.me/Ragini_kumari"
+                href="https://t.me/ragini_2728"
                 className="contact_button"
                 target="_blank"
                 rel="noopener noreferrer"
