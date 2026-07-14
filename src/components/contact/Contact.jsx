@@ -57,7 +57,7 @@ const Contact = () => {
               <i className="bx bxl-whatsapp contact_card-icon"></i>
 
               <h3 className="contact_card-title">Telegram</h3>
-              <span className="contact_card-data">@Ragini_kumari</span>
+              <span className="contact_card-data">@ragini_2728</span>
 
               <a
                 href="https://t.me/Ragini_kumari"
