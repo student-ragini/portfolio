@@ -15,8 +15,8 @@ const Projects = () => {
         <div className='skills_containe container grid' id='skills_container'>
             <CareerHub/>
             <DocBooker />
-            <VideoLibrary/>
             <ShoppingOnline />
+            <VideoLibrary/>
         </div>
     </section>
   )

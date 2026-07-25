@@ -60,8 +60,8 @@ const Data = () => {
         
      
       
-      <h3 className='home_subtitle'>React Developer</h3>
-      <p className='home_description'>I'm a React Developer and passionate to my work.</p>
+     <h3 className="home_subtitle">MERN Stack Developer</h3>
+     <p className="home_description">Passionate MERN Stack Developer with experience in React.js, Node.js, Express.js and MongoDB. I enjoy building responsive and user-friendly web applications.</p>
       <p className='button-flex'><a href="#contact" className="button button--flex">
         Say Hello
         <svg

@@ -26,6 +26,9 @@ const Contact = () => {
       e.target.reset();
     } catch (err) {
       console.error("EmailJS error:", err);
+      console.log("Status:", err.status);
+      console.log("Text:", err .text);
+      console.log("Full Error:", err);
       toast.error("Failed to send message. Please try again later.");
     } finally {
       setLoading(false);
@@ -54,22 +57,38 @@ const Contact = () => {
             </div>
 
             <div className="contact_card">
-              <i className="bx bxl-whatsapp contact_card-icon"></i>
+  <i className="bx bxl-whatsapp contact_card-icon"></i>
 
-              <h3 className="contact_card-title">Telegram</h3>
-              <span className="contact_card-data">@ragini_2728</span>
+  <h3 className="contact_card-title">WhatsApp</h3>
+  <span className="contact_card-data">+91 8102378330</span>
 
-              <a
-                href="https://telegram.me/ragini_2728"
-                className="contact_button"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Write me{" "}
-                <i className="bx bx-right-arrow-alt contact_button-icon"></i>
-              </a>
-            </div>
+  <a
+    href="https://wa.me/918102378330?text=Hi%20Ragini,%20I%20visited%20your%20portfolio%20and%20would%20like%20to%20connect."
+    className="contact_button"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    Write me
+    <i className="bx bx-right-arrow-alt contact_button-icon"></i>
+  </a>
+</div>
 
+<div className="contact_card">
+  <i className="bx bxl-linkedin contact_card-icon"></i>
+
+  <h3 className="contact_card-title">LinkedIn</h3>
+  <span className="contact_card-data">Ragini Kumari</span>
+
+  <a
+    href="https://www.linkedin.com/in/ragini-kumari-326b072a5"
+    className="contact_button"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    Visit Profile
+    <i className="bx bx-right-arrow-alt contact_button-icon"></i>
+  </a>
+</div>
             <div className="contact_card">
               <i className="bx bxl-instagram contact_card-icon"></i>
 

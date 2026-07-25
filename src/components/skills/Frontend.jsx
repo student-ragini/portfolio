@@ -11,21 +11,21 @@ const Frontend = () => {
                 <div className='skills_data'>
                     <i className='bx bx-badge-check'></i>
                     <div>
-                        <h3 className='skills_name'>HTML</h3>
+                        <h3 className='skills_name'>HTML5</h3>
                     </div>
                 </div>
 
                 <div className='skills_data'>
                     <i className='bx bx-badge-check'></i>
                     <div>
-                        <h3 className='skills_name'>CSS</h3>
+                        <h3 className='skills_name'>CSS3</h3>
                     </div>
                 </div>
 
                 <div className='skills_data'>
                     <i className='bx bx-badge-check'></i>
                     <div>
-                        <h3 className='skills_name'>JavaScript</h3>
+                        <h3 className='skills_name'>JavaScript (ES6+)</h3>
                     </div>
                 </div>
 
@@ -42,7 +42,7 @@ const Frontend = () => {
                 <div className='skills_data'>
                     <i className='bx bx-badge-check'></i>
                     <div>
-                        <h3 className='skills_name'>React JS</h3>
+                        <h3 className='skills_name'>React.js</h3>
                     </div>
                 </div>
 

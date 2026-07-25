@@ -15,9 +15,7 @@ const About = () => {
             <div className='about_data'>
                 <Info />
                 <p className='about_description'>
-                    I'm a React developer with tech stack of 
-                    HTML, CSS, Javascript, Bootstrap, React JS, Typescript,
-                    SQL and MongoDB. 
+                    I am a MERN Stack Developer with experience in building full-stack web applications using React.js, Node.js, Express.js, MongoDB, HTML, CSS, JavaScript, and Bootstrap.
                 </p>
                 <a download="" href={CV} className="button button--flex">Download CV 
                 <svg

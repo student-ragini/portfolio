@@ -11,7 +11,7 @@ const Backend = () => {
                 <div className='skills_data'>
                     <i className='bx bx-badge-check'></i>
                     <div>
-                        <h3 className='skills_name'>Express JS</h3>
+                        <h3 className='skills_name'>Express.js</h3>
                     </div>
                 </div>
 
@@ -33,7 +33,7 @@ const Backend = () => {
                 <div className='skills_data'>
                     <i className='bx bx-badge-check'></i>
                     <div>
-                        <h3 className='skills_name'>Node JS</h3>
+                        <h3 className='skills_name'>Node.js</h3>
                     </div>
                 </div>
 
